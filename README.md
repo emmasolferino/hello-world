@@ -1,1 +1,3 @@
-# hello-world
+# This is my first experience with GitHub, but I really like the idea of version control. It's definitely super useful for more complex projects. When you are introducing an edit to a projet, I think having a separate copy will give piece of mind that the user isn't going to ruin all of their previous hard work. Having the ability to create these branches off of the main repository is a great option.
+
+# It also has advantages when it comes to collaboration. Pull requests mean that people can consider and approve new changes to the code, which is again super useful when wokring on big and important projects.
